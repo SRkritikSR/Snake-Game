@@ -1,0 +1,23 @@
+.container-fluid2 {
+	left: 10%;
+	top: 15%;
+	height: 70%;
+	width: 60%;
+	background-color: blue;
+	position: absolute;
+}
+
+.animate {
+	position: relative;
+	/*left: 50%;*/
+	top: 50%;
+	height: 5%;
+	width: 2%;
+	background-color: red;
+}
+.container-fluid1 {
+	position: absolute;
+	left: 80%;
+	top: 30%;
+
+}
